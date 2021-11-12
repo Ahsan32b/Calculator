@@ -1,0 +1,28 @@
+body{
+	background-color:pink;
+	margin:0;
+	padding: 0;
+}
+
+.textview{
+	width:220px;
+
+}
+.button{
+	background-color: lightblue;
+	width:50px;
+	height:50px;
+	font-size: 25px;
+	margin: 2px;
+	cursor:pointer;
+}
+.main{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%)translateY(-50%);
+}
+.bg{
+	height: 100%;
+	background:linear-gradient(to right,#e91e63,#315b15;
+}
